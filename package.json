@@ -1,10 +1,12 @@
 {
     "name": "advpl-codex",
-    "displayName": "advpl-codex",
-    "description": "AdvPL support",
+    "displayName": "AdvPL Codex",
+    "description": "AdvPL language snippets and reference",
     "version": "0.0.1",
     "publisher": "vlopes11",
+    "icon": "./img/advpl-codex-128.png",
     "license": "MIT",
+    "readme": "README.md",
     "repository": {
         "type": "git",
         "url": "https://github.com/vlopes11/advpl-codex"

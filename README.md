@@ -1,8 +1,12 @@
-# advpl-codex README
+# advpl-codex
+
+Snippets for AdvPL language.
 
 ## Features
 
 ## Requirements
+
+* [AdvPL-VSCode](https://github.com/killerall/advpl-vscode)
 
 ## Extension Settings
 
@@ -12,5 +16,4 @@
 
 ### 0.0.1
 
-Initial release of advpl-codex
-
+Initial release
