@@ -2,9 +2,9 @@
     "name": "advpl-codex",
     "displayName": "AdvPL Codex",
     "description": "AdvPL language snippets and reference",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "vlopes11",
-    "icon": "./img/advpl-codex-128.png",
+    "icon": "img/advpl-codex-128.png",
     "license": "MIT",
     "readme": "README.md",
     "repository": {
