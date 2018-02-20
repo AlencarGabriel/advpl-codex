@@ -2,7 +2,7 @@
     "name": "advpl-codex",
     "displayName": "AdvPL Codex",
     "description": "AdvPL language snippets and reference",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "vlopes11",
     "icon": "img/advpl-codex-128.png",
     "license": "MIT",
@@ -15,7 +15,7 @@
         "url": "https://github.com/vlopes11/advpl-codex/issues"
     },
     "engines": {
-        "vscode": "^1.20.0"
+        "vscode": "^1.17.0"
     },
     "categories": [
         "Snippets"
