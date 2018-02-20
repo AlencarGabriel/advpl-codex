@@ -18,11 +18,12 @@
     "categories": [
         "Snippets"
     ],
-    "main": "./out/extension",
     "contributes": {
         "snippets": [
-            "language": "advpl",
-            "path": "./snippets/advpl.json"
+            {
+                "language": "advpl",
+                "path": "./snippets/advpl.json"
+            }
         ]
     },
     "scripts": {
