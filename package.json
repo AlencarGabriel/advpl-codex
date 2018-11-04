@@ -2,7 +2,7 @@
     "name": "advpl-codex",
     "displayName": "AdvPL Codex",
     "description": "AdvPL language snippets and reference",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "vlopes11",
     "icon": "img/advpl-codex-128.png",
     "license": "MIT",
@@ -17,17 +17,13 @@
     "engines": {
         "vscode": "^1.17.0"
     },
+    "activationEvents": [
+        "onLanguage:advpl"
+    ],
     "categories": [
         "Snippets"
     ],
-    "contributes": {
-        "snippets": [
-            {
-                "language": "advpl",
-                "path": "./snippets/advpl.json"
-            }
-        ]
-    },
+    "main": "./out/extension",
     "scripts": {
         "vscode:prepublish": "npm run compile",
         "compile": "tsc -p ./",
