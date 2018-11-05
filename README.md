@@ -1,4 +1,4 @@
-# advpl-codex - DEPRECATED - Use (https://marketplace.visualstudio.com/items?itemName=vlopes11.advpls-client)[AdvPLS Client] instead
+# advpl-codex - DEPRECATED - Use [AdvPLS Client](https://marketplace.visualstudio.com/items?itemName=vlopes11.advpls-client) instead
 
 [![Build Status](https://travis-ci.org/vlopes11/advpl-codex.svg?branch=master)](https://travis-ci.org/vlopes11/advpl-codex)
 
@@ -27,5 +27,3 @@ No configuration required
 Initial release
 
 ### [0.0.2](https://github.com/vlopes11/advpl-codex/releases/tag/v0-0-2)
-
-
